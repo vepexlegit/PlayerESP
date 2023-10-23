@@ -13,8 +13,8 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.0"
-group = "de.vepexlegit.playeresp"
-archivesBaseName = "PlayerESP"
+group = "de.vepexlegit.playerespdebug"
+archivesBaseName = "PlayerESPDebug"
 
 minecraft {
     version = "1.8.9-11.15.1.2318-1.8.9"
